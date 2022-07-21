@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **B1TC0R3/B1TC0R3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
