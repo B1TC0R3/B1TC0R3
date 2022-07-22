@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=B1TC0R3.B1TC0R3&right_color=yellow)
 
+![](https://api.github.com/users/B1TC0R3/followers)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" valign="center" src="https://github-readme-stats.vercel.app/api?username=b1tc0r3&show_icons=true&theme=great-gatsby" />
 </a>
