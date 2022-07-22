@@ -16,4 +16,4 @@ Here are some ideas to get you started:
   <img align="center" valign="center" src="https://github-readme-stats.vercel.app/api?username=b1tc0r3&show_icons=true&theme=great-gatsby" />
 </a>
 <h2>This part is for testing funky things:</h2>
-<img align="center" valign="center" src="file://~/Pictures/forest.jpg">
+<img align="center" valign="center" src="file:///home/b1tc0r3/Pictures/forest.jpg">
