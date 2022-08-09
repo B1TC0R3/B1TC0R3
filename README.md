@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1>About me</h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=B1TC0R3.B1TC0R3&right_color=yellow)
-![os](https://svgshare.com/i/Zhy.svg)]
+![os](https://svgshare.com/i/Zhy.svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" valign="center" src="https://github-readme-stats.vercel.app/api?username=b1tc0r3&show_icons=true&theme=great-gatsby" />
