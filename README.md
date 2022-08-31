@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1>About me</h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=B1TC0R3.B1TC0R3&right_color=yellow)
 ![os](https://svgshare.com/i/Zhy.svg)
 
 I code by trial and error and then refactor until it looks like I know what I'm doing.
