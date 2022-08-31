@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![os](https://svgshare.com/i/Zhy.svg)
 
-I code by trial and error and then refactor until it looks like I know what I'm doing.
+<h3>I code by trial and error and then refactor until it looks like I know what I'm doing.</h3>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
