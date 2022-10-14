@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![os](https://svgshare.com/i/Zhy.svg)
 
-Heres a link to [your profile](https://github.com/settings/user) C:
+Heres a link to [your profile](https://github.com/settings/profile) C:
 
 <h3>I code by trial and error and then refactor until it looks like I know what I'm doing.</h3>
 
