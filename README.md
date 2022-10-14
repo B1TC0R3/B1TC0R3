@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ![os](https://svgshare.com/i/Zhy.svg)
 
-Heres a link to [your profile](https://github.com/settings/profile).
 <h3>I code by trial and error and then refactor until it looks like I know what I'm doing.</h3>
+Heres a link to [your profile](https://github.com/settings/profile).
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
