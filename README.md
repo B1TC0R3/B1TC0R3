@@ -24,6 +24,8 @@ Heres a link to [your profile](https://gist.github.com/mine).
   <img align="center" valign="center" src="https://github-readme-stats.vercel.app/api?username=b1tc0r3&show_icons=true&theme=great-gatsby" />
 </a>
 
+<br>
+
 <a href="https://github.com/B1TC0R3">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=B1TC0R3&theme=great-gatsby&hide_border=true" />
 </a>
