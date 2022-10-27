@@ -3,7 +3,7 @@
 ![os](https://svgshare.com/i/Zhy.svg)
 
 <h3>I code by trial and error and then refactor until it looks like I know what I'm doing.</h3>
-<h3>Some usefull code snippets: [Gists](https://gists.github.com/B1TC0R3)</h3>
+<h3>Some usefull code snippets: <div href="https://gists.github.com/B1TC0R3">Gists</div></h3>
 
 Heres a link to [your profile](https://gist.github.com/mine).
 
