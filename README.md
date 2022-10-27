@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Heres a link to [your profile](https://gist.github.com/mine).
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a style="halign:center">
   <img align="center" valign="center" src="https://github-readme-stats.vercel.app/api?username=b1tc0r3&show_icons=true&theme=great-gatsby" />
 </a>
 
