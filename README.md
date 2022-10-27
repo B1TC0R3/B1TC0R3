@@ -3,10 +3,7 @@
 ![os](https://svgshare.com/i/Zhy.svg)
 
 <h3>I code by trial and error and then refactor until it looks like I know what I'm doing.</h3>
-<h3>Some usefull code snippets:</h3>
-<h3 href="https://gists.github.com/B1TC0R3">Gists</h3>
-
-Heres a link to [your profile](https://gist.github.com/mine).
+Some usefull code snippets: [My Gists]("https://gists.github.com/B1TC0R3")
 
 <a href="https://github.com/B1TC0R3" style="halign:center">
   <img align="center" valign="center" src="https://github-readme-stats.vercel.app/api?username=b1tc0r3&show_icons=true&theme=great-gatsby" />
