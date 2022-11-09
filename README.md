@@ -1,5 +1,3 @@
-<h1>About me</h1>
-
 ![os](https://svgshare.com/i/Zhy.svg)
 
 <p>
