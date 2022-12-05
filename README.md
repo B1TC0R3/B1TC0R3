@@ -8,16 +8,6 @@
 <br>
 <br>
 
-<a href="https://github.com/B1TC0R3" style="halign:center">
-  <img align="center" valign="center" src="https://github-readme-stats.vercel.app/api?username=b1tc0r3&count_private=true&show_icons=true&theme=great-gatsby" />
-</a>
-
-<br>
-
 <a href="https://github.com/B1TC0R3">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=B1TC0R3&theme=great-gatsby&hide_border=true" />
-</a>
-
-<a href="https://github.com/B1TC0R3?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1TC0R3&langs_count=6&theme=great-gatsby&layout=compact&hide_border=true" />
 </a>
