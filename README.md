@@ -4,8 +4,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 <h4>My TryHackMe Profile Status:</h4><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/B1TC0R3.png" alt="TryHackMe">
