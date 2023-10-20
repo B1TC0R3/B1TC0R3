@@ -5,7 +5,7 @@
 ### NOTICE
 
 This account may host offensive penetration testing utility.
-These tools are exclusively for legal use.
+These tools are published exclusively for legal use.
 The author is *not responsible* for any damage caused by usage of the tools to the extend of applicable law.
 
 ### Statistics
