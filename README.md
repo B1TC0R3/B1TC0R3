@@ -10,4 +10,4 @@ The author is *not responsible* for any damage caused by usage of the tools to t
 
 ### Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1TC0R3?show_icons=true&theme=great_gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1TC0R3&show_icons=true&theme=great_gatsby)
