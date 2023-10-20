@@ -11,4 +11,4 @@ The author is *not responsible* for any damage caused by usage of the tools to t
 ### Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1TC0R3&show_icons=true&theme=great-gatsby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1TC0R3&exclude_repo=dotfiles,WSem&layout=donut&lang_count=4&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1TC0R3&exclude_repo=dotfiles,WSem&layout=donut&langs_count=4&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
