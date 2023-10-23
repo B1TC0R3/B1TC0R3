@@ -1,7 +1,3 @@
-## I code by trial and error and then refactor until it looks like I know what I'm doing.</h3>
-
-**Junior white hat hacker and cybersecurity student.**
-
 ### NOTICE
 
 This account may host offensive penetration testing utility.
