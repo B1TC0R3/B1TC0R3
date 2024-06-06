@@ -6,8 +6,12 @@ The author is *not responsible* for any damage caused by usage of the tools to t
 
 ### Badges
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/B1TC0R3.png" alt="TryHackMe">
-<a href="https://www.credly.com/badges/a340c996-7dc3-444f-8edc-3de00851fc62/public_url"><img src="/img/isc2-candidate.png"></a>
+<table>
+    <tr>
+        <th><img src="https://tryhackme-badges.s3.amazonaws.com/B1TC0R3.png" alt="TryHackMe"></th>
+        <th><a href="https://www.credly.com/badges/a340c996-7dc3-444f-8edc-3de00851fc62/public_url"><img src="/img/isc2-candidate.png"></a></th>
+    </tr>
+</table>
 
 ### Statistics
 
