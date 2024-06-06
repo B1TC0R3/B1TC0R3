@@ -4,10 +4,14 @@ This account may host offensive penetration testing utility.
 These tools are published exclusively for legal use.
 The author is *not responsible* for any damage caused by usage of the tools to the extend of applicable law.
 
+---
+
 ### Badges
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/B1TC0R3.png)
 [![ISC2 Candidate Badge](/img/isc2-candidate.png)](https://www.credly.com/badges/a340c996-7dc3-444f-8edc-3de00851fc62/public_url)
+
+---
 
 ### Statistics
 
