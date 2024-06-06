@@ -6,7 +6,7 @@ The author is *not responsible* for any damage caused by usage of the tools to t
 
 ### Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a340c996-7dc3-444f-8edc-3de00851fc62" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/B1TC0R3.png" alt="TryHackMe">
 
 ### Statistics
 
