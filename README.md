@@ -13,7 +13,8 @@ The author is *not responsible* for any damage caused by usage of the tools to t
 
 ---
 
-### Statistics
+### Github Statistics
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=B1TC0R3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1TC0R3&show_icons=true&theme=great-gatsby)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1TC0R3&exclude_repo=dotfiles,WSem&layout=donut&&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
