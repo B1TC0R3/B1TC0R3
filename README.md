@@ -6,13 +6,6 @@ The author is *not responsible* for any damage caused by usage of the tools to t
 
 ---
 
-### Badges
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/B1TC0R3.png)](https://tryhackme.com/p/B1TC0R3)
-[![ISC2 Candidate Badge](/img/isc2-candidate.png)](https://www.credly.com/badges/a340c996-7dc3-444f-8edc-3de00851fc62/public_url)
-
----
-
 ### Github Statistics
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=B1TC0R3&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
